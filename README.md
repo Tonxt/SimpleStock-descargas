@@ -1,6 +1,6 @@
 # SimpleStock — Descargas
 
-Instaladores de **SimpleStock**, el sistema de gestión para maxikioscos.
+Instaladores de **SimpleStock**, el sistema de gestión para negocios.
 
 Este repositorio solo tiene los instaladores publicados: el código del sistema no está acá.
 
